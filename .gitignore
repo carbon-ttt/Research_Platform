@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# local build artefacts
+node_modules/
+*.log
+
+# Local-only exports. Product documents live in docs/*.md
+*.docx
+create_prd.py
+outputs/
+work/
